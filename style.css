@@ -1,0 +1,28 @@
+.blog{background-color: aquamarine;
+    border: 5px solid rebeccapurple;
+    border-radius: 15px;
+    margin: 40px 20px 50px 25px;
+    padding: 10px;
+    
+    
+    }
+    .traveler{background-color: blueviolet;
+    
+}
+    .blog-center{
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 2em;
+    }
+    .blog p{
+        text-align: justify;
+        color: brown;
+
+
+    }
+    h4{
+        display: inline;
+    }
+    small{
+        display: block;
+    }
